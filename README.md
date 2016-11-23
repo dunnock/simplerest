@@ -10,14 +10,14 @@ Python Django simplest server for debugging REST APIs with authentication
 
 Supports basic user REST, enough to serve as a mock for your client. It will output all the requests to the console. Also provides CORS headers allowing communication with the server from a different url.
 
-After starting server you can see description of the REST API following the link [localhost](http://localhost:8000/), admin interface is avaialble via [localhost admin(http://localhost:8000/admin/)
+After starting server you can see description of the REST API following the link [localhost](http://localhost:8000/), admin interface is avaialble via [localhost admin](http://localhost:8000/admin/)
 
 # setup
 
 1. create virtualenv
 
-    virtualenv env
-    source env/bin/activate
+  virtualenv env
+  source env/bin/activate
 
 2. install dependencies
 
